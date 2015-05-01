@@ -1,2 +1,2 @@
 # !/bin/bash
-./new_integrate.py
+./osc_server.py
