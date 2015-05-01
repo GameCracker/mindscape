@@ -2,7 +2,7 @@
 
 ## Install
 - Install **MuseSDK** from [MuseIO Developer] (https://sites.google.com/a/interaxon.ca/muse-developer-site/download).
-- Install **liblo** from [liblo Sourceforge] (http://liblo.sourceforge.net/README.html)
+- Install **liblo** from [liblo Sourceforge] (http://liblo.sourceforge.net/README.html).
 - Install **mne** by:
 <br>
 'pip install mne --upgrade'
