@@ -6,10 +6,11 @@
 - Install **mne** by:
 <br>
 'pip install mne --upgrade'
+<br>
 See [mne site] (http://martinos.org/mne/stable/getting_started.html) if you got any error. 
-Or, if you don't need Alpha wave calibration, comment from line 4, line 54 - 124 in file osc_server/osc_server.py.
+Or, if you don't need Alpha wave calibration, **comment out line 4, line 54 - 124** in file **'osc_server/osc_server.py'**.
 - Install **numpy**, See [numpy site] (http://docs.scipy.org/doc/numpy/user/install.html) if you got any error. 
-Or, if you don't need Alpha wave calibration, comment from line 3, line 54 - 124 in file osc_server/osc_server.py.
+Or, if you don't need Alpha wave calibration, **comment out line 3, line 54 - 124**in file **'osc_server/osc_server.py'**.
 
 ## Run 
 - Turn on Muse, pair Muse with your computer via Bluetooth.
