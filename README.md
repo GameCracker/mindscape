@@ -14,6 +14,7 @@ Or, if you don't need Alpha wave calibration, **comment out line 3, line 54 - 12
 
 ## Run 
 - Turn on Muse, pair Muse with your computer via Bluetooth.
+- Open Terminal and get into the '../mindscape/osc_server' folder.
 - Pair and connect Muse by run:
 <br>
 '**./muse.sh**'
