@@ -16,11 +16,11 @@ Or, if you don't need Alpha wave calibration, **comment out line 3, line 54 - 12
 - Turn on Muse, pair Muse with your computer via Bluetooth.
 - Pair and connect Muse by run:
 <br>
-'./muse.sh'
+'**./muse.sh**'
 - To streaming data and calibration, sending data to Unity, run:
 <br>
-'./run.sh' 
+'**./run.sh**' 
 <br>
 or 
 <br>
-'python osc_server.py'
+'**python osc_server.py**'
