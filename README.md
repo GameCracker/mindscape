@@ -20,5 +20,7 @@ Or, if you don't need Alpha wave calibration, **comment out line 3, line 54 - 12
 - To streaming data and calibration, sending data to Unity, run:
 <br>
 './run.sh' 
+<br>
 or 
+<br>
 'python osc_server.py'
