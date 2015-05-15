@@ -19,4 +19,4 @@ Or, if you don't need Alpha wave calibration, **comment out line 3, line 54 - 12
 './muse.sh'
 - To streaming data and calibration, sending data to Unity, run:
 <br>
-'./run.sh'
+'./run.sh' or 'python osc_server.py'
